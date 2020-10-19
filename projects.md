@@ -25,7 +25,7 @@ title: Projects |
   </table>
 </div>
 
-## [Intelligent Pump Control System](intern.md)
+## [Distributed Hyper-Parameters Optimization](intern.md)
 
 <div
     class = "projectBox">
@@ -34,18 +34,18 @@ title: Projects |
       <th
         class = "imageColumn">
         <img
-            src = "/images/intern/IPCMachine.png"
+            src = "/images/distributed-HPO/cifar10_speedup.png"
             class = "projectImg">
       </th>
       <th
         class = "textColumn">
-            The project aims to solve the problem of controlling the input/output flow of a pumping system. It utilizes PID control to achieve a precise and automatic adjustment during operation, and includes an user-friendly HMI allow for monitoring and parameter changing.  
+            Hyper-parameters optimization problem is aimed to find the most suitable hyper-parameters for training neural network. This project use Grid Search, Random Search and Evoluationary Search to tackle hyper-parameters optimization problem, and use CUDA-Awared MPI (Distributed Computing) to accerlate the process. We achieve 3.65 to 3.8 speed up under 4 nodes.
       </th>
     </tr>
   </table>
 </div>
 
-## [FaceWidgets: Exploring Tangible Interaction on Face with Head-Mounted Displays](faceWidget.md)
+## [Quickdraw, Doodle Recognition Challenge](faceWidget.md)
 
 <div
     class = "projectBox">
@@ -54,12 +54,12 @@ title: Projects |
       <th
         class = "imageColumn">
         <img
-            src = "/images/faceWidgets/faceWidgetsCover.jpg"
+            src = "/images/Kaggle/doodle-recognition-challenge.jpg"
             class = "projectImg">
       </th>
       <th
         class = "textColumn">
-            [UIST '19 @ New Orleans] FaceWidgets is a novel HMD that integrates physical controls with a lift extender on the backside allowing for the direct manipulation for the VR interaction. We designed two novel interactions to enhance direct manipulation and conducted three user studies to inform the design on the HMD backside.  
+            This is a kaggle competiton to classify 50M drawings encompassing 340 label categories. I use ResNext architecture with model ensemble technique to achieve 0.92 map@3 score, which is top 18% among 1,316 teams. 
       </th>
     </tr>
   </table>
