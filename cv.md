@@ -32,16 +32,14 @@ National Chengchi University, Taiwan
 # Skills
 
 ## Programming Languages
-> Confident with C, C++, C#, JAVA, Python, PyTorch, Keras, OpenCV 
-> Tensorflow, HTML, CSS, Javascript experienced
+> Confident with C, C++, C#, JAVA, Python, PyTorch, Keras, OpenCV  
+> Tensorflow, HTML, CSS, Javascript experienced  
  
 ## Speaking Languages
 > English (Intermediate)  
 Chinese (Native)  
 
 ## Award
-> Academic Excellence Award, NCTU, 2020
-
-> Quick, Draw! Doodle Recognition Kaggle Challenge top 18%, 2018
-
+> Academic Excellence Award, NCTU, 2020  
+> Quick, Draw! Doodle Recognition Kaggle Challenge top 18%, 2018  
 > Academic Excellence Award, NCCU, 2017
