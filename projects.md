@@ -5,7 +5,7 @@ title: Projects |
 
 # Projects  
 
-## [Push-Ups: Enhancing Kinesthetic Experience with Shape-Forming Devices on the Feet Soles](pushUps.md)
+## [Multi-Style Sematic Style Transfer](pushUps.md)
 
 <div
     class = "projectBox">
@@ -14,12 +14,12 @@ title: Projects |
       <th
         class = "imageColumn">
         <img
-            src = "/images/pushUps/pushUpsCover.png"
+            src = "/images/pushUps/multiNST/multiNST.png"
             class = "projectImg">
       </th>
       <th
         class = "textColumn">
-            Push-Ups is an active haptic device installed beneath feet soles that provides feedback to the wearer's feet. The device targets to enhance the realism and immersion of stand-pose virtual reality experiences, and change the wearer's perception of ground surface.  
+            This project is aimed to transfer different semantic objects in one image into different styles. We use pretrained semantic segmentation model (DeepLab-V3) to get the foregound and backgound region, and apply style transfer on different style for each region. In addition to style loss and content loss in traditional neural style transfer, we futher add style-blending loss and total variance loss to make the result more harmony when blending very different style. Also, we provide custom control of blending effect. 
       </th>
     </tr>
   </table>
