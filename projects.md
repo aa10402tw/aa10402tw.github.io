@@ -14,7 +14,7 @@ title: Projects |
       <th
         class = "imageColumn">
         <img
-            src = "/images/pushUps/multiNST/multiNST.png"
+            src = "/images/multiNST/multiNST.png"
             class = "projectImg">
       </th>
       <th
