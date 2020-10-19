@@ -9,7 +9,7 @@ title: About |
 
 ## Bio:
 
-I'm Leon, a new grad from the **Institute of Multimedia Engineering** of National Chiao-Tung University, Taiwan. My research area was **Human-Computer Interaction(HCI)**, and focused on exploring possible interaction between real world and the virtual world.  
+I'm David, a new grad from the **Institute of Multimedia Engineering** of National Chiao-Tung University, Taiwan. My research area was **Human-Computer Interaction(HCI)**, and focused on exploring possible interaction between real world and the virtual world.  
 
 I persued my bachelor's degree in the department of **Electrical Engineering and Computer Science** of NCTU, from which I gained EE-related knowledge such as circuit design. Since I switched to the area of Computer Science for my master's degree, I therefore consider myself more as a **computer engineer** rather than a pure hardware engineer or a computer scientist.
 
