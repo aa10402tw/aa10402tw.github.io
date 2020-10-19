@@ -7,84 +7,39 @@ title: CV |
 
 ## Master's Degree
 
-> **Institute of Multimedia Engineering**  
+> **Institute of Computer Science and Engineering**  
 National Chiao-Tung University, Taiwan  
-2017-2020  
+2018-2020  
 &nbsp;  
-> *Key Courses: User-Centered Interaction Design, Interaction Design and Virtual Reality, Computer Graphics*  
+> *Key Courses: Machine Learning (A+), Video Streaming and Tracking (A+), Deep Learning and Practice (A+), Computer Vision (A+), Pattern Recognition (A+), Parallel Programming (A+), Algorithm (A+)*  
+> *Overall GPA: 4.2/4.3*
 
 ## Bachelor's Degree
 
-> **EECS Undergraduate Honors Program**  
-National Chiao-Tung University, Taiwan  
-2013-2017  
+> **Department of Psychology**  
+National Chengchi University, Taiwan  
+2014-2018  
 &nbsp;  
-> *Key Courses: Computer Organization, Digital Signal Processing, Digital Image Processing, Database System*  
-
-## Exchange Student Program
-
-> **Electrical and Computer Engineering**  
-University of Illinois Urbana-Champaign, USA  
-2016-2017  
-&nbsp;  
-> *Key Courses: Senior Design Project Lab, Logic Synthesis*  
-
-# Work Experiences
-
-## Field Application Engineer Intern
-
-> **Delta EMEA, Eindhoven, Netherlands**  
-2019/3-2019/7  
-&nbsp;  
->\- Industrial automation (VFD, motors, HMI, and power supplies)  
-\- Refined the end-user interface of a intelligent pumping system solution  
-\- Attended the GreenTech 2019 as exhibitor @Amsterdam RAI  
-\- Technical customer support - firmware update  
-\- Creating and translating technical documents from related fields  
+> *Key Courses: Introduction to Artificial Intelligence (A+), Introduction to Machine Learning (A), Introduction to Software Engineer (A+), Computer Vision (A), Operating System (A+), Java Programming (A+), Computer Architecture and Organization (A+)*  
+> *Overall GPA: 3.7/4.3*
 
 ## Teaching Assistant
-
-> **Interaction Design and Virtual Reality, Dept. of Computer Science, NCTU**  
-2018 Fall  
 > **Introduction to Computers and Programming, Dept. of Computer Science, NCTU**  
-2017 Fall, 2019 Fall  
-
-# Extracurricular Activities
-
-## Exhibitor
-
-> **SIGGRAPH ASIA 2019**  
-2019/11  
-&nbsp;  
-> \- Best Demo Voted By Attendees: Enhancing Suspension Activities in Virtual Reality with Body-Scale Kinesthetic Force Feedbacks  
-
-## Chief Coordinator
-
-> **OpenHCI Workshop 2018**  
-2018/1-2018/8  
-&nbsp;  
-> \- Intro page: [OpenHCI 2018](https:www.openhci.com/2018/index.html)  
+2018 Fall  
+> **Soobi Rural School Charity Programming Camp**  
+2018 Spring
 
 # Skills
 
 ## Programming Languages
-
-> C, C++, Unity(C#)
-
-## Knowledge & Skills
-
-> Interaction design  
-Unity development  
-Embedded system development  
-3D modeling / printing
-Basic use of Processing  
-
+Confident with C, C++, C#, JAVA, Python, PyTorch, Keras, OpenCV 
+Tensorflow, HTML, CSS, Javascript experienced
+ 
 ## Speaking Languages
-
-> English (Fluent)  
+> English (Intermediate)  
 Chinese (Native)  
 
-## Certificates
-
-> TOEFL iBT 108/120  
-TOEIC 960/990  
+## Award
+> Academic Excellence Award, NCTU, 2020
+> Quick, Draw! Doodle Recognition Kaggle Challenge top 18%, 2018
+> Academic Excellence Award, NCCU, 2017
