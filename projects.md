@@ -74,7 +74,7 @@ title: Projects |
       <th
         class = "imageColumn">
         <img
-            src = "/images/MobileTextDetection/Android-Text-Detector-3.jpg"
+            src = "/images/MobileTextDetection/Android-Text-Detector-3.png"
             class = "projectImg">
       </th>
       <th
