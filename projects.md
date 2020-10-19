@@ -65,7 +65,7 @@ title: Projects |
   </table>
 </div>
 
-## [NCTU Museum-School Collaboration Showcase - VR Creative Exhibition: Hunting for Khubilai Khan](hunting.md)
+## [Android_Text-Detector](hunting.md)
 
 <div
     class = "projectBox">
@@ -74,18 +74,18 @@ title: Projects |
       <th
         class = "imageColumn">
         <img
-            src = "/images/hunting/huntingCover.jpg"
+            src = "/images/MobileTextDetection/Android-Text-Detector-3.jpg"
             class = "projectImg">
       </th>
       <th
         class = "textColumn">
-            The VR showcase "Hunting for Khubilai Khan" allows the audience to dive into the boundless desert, and hunt down the preys. The player plays as the Khubilai Khan, and experience the intense and fun of hunting by sitting on the horse-riding machine, and a bow-simulating hand-held device.  
+            Deploy SoTA text detection model (CRAFT) on mobile devices. The major work of this project includes develop android app with the OpenCV SDK, export serializable PyTorch models and convert codes from Python to Java.  
       </th>
     </tr>
   </table>
 </div>
 
-## [NCTU Museum-School Collaboration Showcase - VR Creative Exhibition: Fisherman's Delight](fishing.md)
+## [Knuckles-Recognition as a novel input method for smart glasses](fishing.md)
 
 <div
     class = "projectBox">
@@ -94,18 +94,18 @@ title: Projects |
       <th
         class = "imageColumn">
         <img
-            src = "/images/fishing/fishingCover.png"
+            src = "/images/Knuckles-Recognition/Knuckles-Recognition-1.gif"
             class = "projectImg">
       </th>
       <th
         class = "textColumn">
-            This creation takes place at the Jinming Pool in the Song Dynasty. Back then it was a huge pool in the royal garden of Kaifeng; the royal family used to enjoy the beauty and fish by the pool bank. In our showcase the player becomes a member of the imperial family, and fish leisurely with actually feeling of the fish's struggle.  
+            Developed a model to classify which knuckle is closest to the camera of smart glasses, which enables users to use different knuckles as different input function for a novel smart glasses prototype. 
       </th>
     </tr>
   </table>
 </div>
 
-## [Power Efficient Bicycle Signal System](bike.md)
+## [Object-Detection In Streaming](bike.md)
 
 <div
     class = "projectBox">
@@ -114,12 +114,12 @@ title: Projects |
       <th
         class = "imageColumn">
         <img
-            src = "/images/bike/bikeCover.png"
+            src = "/images/Object-Detection/Object-DetectionInStreaming.gif"
             class = "projectImg">
       </th>
       <th
         class = "textColumn">
-            When bikers are cycling on road, it is often there's no bycycle lanes on the side. This forces the bikers to face a huge risk of getting struck by the vehicles rushing by. To reduce the amount of fatal accidents those bikers may encounter, we developed a power efficient bicycle signal system that shows various lighting patterns when bikers make turns and brakes.
+            In this project, we use XAMPP to bulid the server, and using MPEG-DASH as Streaming protocol to do live streaming. To be able to select which obejcts to detect by user, we use the Single Shot Multibox Detector (SSD) to do objection detection in client side.
       </th>
     </tr>
   </table>
