@@ -34,7 +34,7 @@ title: Projects |
       <th
         class = "imageColumn">
         <img
-            src = "projects/images/distributed-HPO/cifar10_speedup.png"
+            src = "projects/images/DHPO/cifar10_speedup.png"
             class = "projectImg">
       </th>
       <th
