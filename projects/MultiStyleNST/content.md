@@ -30,31 +30,13 @@ L = &lambda;<sub>1</sub>L<sub>style</sub> + &lambda;<sub>2</sub>L<sub>blend</sub
 </div>
 
 ### Video Style Transfer
-<div class="video-container">
-    <iframe
-        width="640"
-        height="360"
-        src = "./1_rain_wave.mp4"
-        frameborder="0"
-        allowfullscreen
-        display = "block"
-        margin-left = "auto"
-        margin-right = "auto"
-        >
-    </iframe>
-</div> 
-
-<div class="video-container">
-    <iframe
-        width="640"
-        height="360"
-        src = "./3_scratch_super.mp4"
-        frameborder="0"
-        allowfullscreen
-        display = "block"
-        margin-left = "auto"
-        margin-right = "auto"
-        >
-    </iframe>
-</div> 
+<div class="bob-container"> 
+  <div class="bob-row">
+    <div class="bob-2item">
+      <img src="./video_1.gif">
+    </div>
+    <div class="bob-2item">
+      <img src="./video_2.gif">
+    </div>
+</div>
 
