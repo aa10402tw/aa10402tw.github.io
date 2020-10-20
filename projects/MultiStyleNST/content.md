@@ -22,3 +22,32 @@ L = &lambda;<sub>1</sub>L<sub>style</sub> + &lambda;<sub>2</sub>L<sub>blend</sub
 <img src = "./result_1.png" class="projectDetailImgHalf">
 <img src = "./result_2.png" class="projectDetailImgHalf">
 
+### Video Style Transfer
+<div class="video-container">
+    <iframe
+        width="640"
+        height="360"
+        src = "./1_rain_wave.mp4"
+        frameborder="0"
+        allowfullscreen
+        display = "block"
+        margin-left = "auto"
+        margin-right = "auto"
+        >
+    </iframe>
+</div> 
+
+<div class="video-container">
+    <iframe
+        width="640"
+        height="360"
+        src = "./3_scratch_super.mp4"
+        frameborder="0"
+        allowfullscreen
+        display = "block"
+        margin-left = "auto"
+        margin-right = "auto"
+        >
+    </iframe>
+</div> 
+
