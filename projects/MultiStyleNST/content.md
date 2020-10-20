@@ -31,7 +31,7 @@ L = &lambda;<sub>1</sub>L<sub>style</sub> + &lambda;<sub>2</sub>L<sub>blend</sub
 </div>
 &nbsp;
 
-### Video Style Transfer
+### Video Style Transfer 1
 <div class="bob-container"> 
   <div class="bob-row">
     <div class="bob-2item">
