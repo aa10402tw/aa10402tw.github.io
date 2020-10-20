@@ -22,7 +22,7 @@ L = &lambda;<sub>1</sub>L<sub>style</sub> + &lambda;<sub>2</sub>L<sub>blend</sub
 <img src = "images/MultiStyleNST/blending.png" class="projectDetailImg">
 
 ### Sample Result
-<img src="images/MultiStyleNST/result_1.png" width="40%"> <img src="./result_2.png" width="40%">
+<img src="./images/MultiStyleNST/result_1.png" width="40%"> <img src="./result_2.png" width="40%">
 
 ### Video Style Transfer
 <img src="images/MultiStyleNST/video_1.gif" width="40%"> <img src="./video_2.gif" width="40%">
