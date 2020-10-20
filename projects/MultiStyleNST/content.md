@@ -19,8 +19,15 @@ L = &lambda;<sub>1</sub>L<sub>style</sub> + &lambda;<sub>2</sub>L<sub>blend</sub
 <img src = "./blending.png" class="projectDetailImg">
 
 ### Sample Result
-<img src = "./result_1.png" class="projectDetailImgHalf">
-<img src = "./result_2.png" class="projectDetailImgHalf">
+<div class="bob-container"> 
+  <div class="bob-row">
+    <div class="bob-2item">
+      <img src="./result_1.png">
+    </div>
+    <div class="bob-2item">
+      <img src="./result_2.png">
+    </div>
+</div>
 
 ### Video Style Transfer
 <div class="video-container">
