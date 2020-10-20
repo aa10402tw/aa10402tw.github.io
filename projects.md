@@ -5,7 +5,7 @@ title: Projects |
 
 # Projects  
 
-## [Multi-Style Sematic Style Transfer](pushUps.md)
+## [Multi-Style Sematic Style Transfer](projects/MultiStyleNST/content.md)
 
 <div
     class = "projectBox">
