@@ -122,3 +122,9 @@ hr {
     font-weight: normal;
     padding-left: 10px;
 }
+
+.projectImg {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
