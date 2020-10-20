@@ -5,7 +5,7 @@ title: Projects |
 
 # Projects  
 
-## [Multi-Style Sematic Style Transfer](projects/MultiStyleNST/content.md)
+## [Multi-Style Sematic Style Transfer](projects/MultiStyleNST.md)
 
 <div
     class = "projectBox">
@@ -14,7 +14,7 @@ title: Projects |
       <th
         class = "imageColumn">
         <img
-            src = "/images/multiNST/multiNST.png"
+            src = "/images/MultiStyleNST/result_2.png"
             class = "projectImg">
       </th>
       <th
