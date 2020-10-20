@@ -9,7 +9,7 @@ This project is aimed to transfer different semantic objects in one image into d
 ## Model Architecture
 <img src = "./model_architecture.png" class="projectDetailImg">
 Given one image I<sub>src</sub> and two target style images I<sub>s1</sub> and I<sub>s2</sub>, we want to transfer different semantic objects into different style accrodingly. We first produced two intermediated result image I<sub>i1</sub> and I<sub>i2</sub>, and compute the style loss between (I<sub>s1</sub>, I<sub>i1</sub>) and (I<sub>s2</sub>, I<sub>i2</sub>). The we merge these two intermediated images into final result image I<sub>result</sub> by semantic map predicted by DeepLab-V3 image. Finally compute the content loss between (I<sub>src</sub>, I<sub>result</sub>). Further more, to make the resulting image more harmony while blending different styles and prevent weird boundary after merging two intermediated images, we also compute the style-blending loss which is weighted style loss between (I<sub>s1</sub>, I<sub>i2</sub>) and (I<sub>s2</sub>, I<sub>ii</sub>), and smooth loss which is total variance of I<sub>result</sub>. The entire loss function can be written as follow:<br/>
-L = &lambda<sub>1</sub>L<sub>style</sub> + &lambda<sub>2</sub>L<sub>blend</sub> + &lambda<sub>3</sub>L<sub>content</sub> + &lambda<sub>4</sub>L<sub>Smooth</sub>
+L = &lambda;<sub>1</sub>L<sub>style</sub> + &lambda;<sub>2</sub>L<sub>blend</sub> + &lambda;<sub>3</sub>L<sub>content</sub> + &lambda;<sub>4</sub>L<sub>Smooth</sub>
 
 ## Result 
 ### Compare with naive approach
@@ -19,6 +19,6 @@ L = &lambda<sub>1</sub>L<sub>style</sub> + &lambda<sub>2</sub>L<sub>blend</sub> 
 <img src = "./blending.png" class="projectDetailImg">
 
 ### Sample Result
-<img src = "./blending.png" class="projectDetailImgHalf">
-<img src = "./blending.png" class="projectDetailImgHalf">
+<img src = "./result_1.png" class="projectDetailImgHalf">
+<img src = "./result_2.png" class="projectDetailImgHalf">
 
