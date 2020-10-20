@@ -65,7 +65,7 @@ title: Projects |
   </table>
 </div>
 
-## [Android_Text-Detector](hunting.md)
+## [Android Text-Detector](hunting.md)
 
 <div
     class = "projectBox">
