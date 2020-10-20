@@ -27,6 +27,6 @@ Furthermore, we observe that using naive method sometimes cause the resulting im
 <img src="./images/MultiStyleNST/result_1.png" width="40%"> <img src="./images/MultiStyleNST/result_2.png" width="40%">
 
 ### Video Style Transfer
-<img src="./images/MultiStyleNST/video_1.gif" width="40%"> <img src="./images/MultiStyleNST/video_2.gif" width="40%">
-Tradition neural style transfer use **On-line Image Optimization** approach, but it could take long time if we want to transfer many image (In our environment, optimize an image take a few minutes). To transfer a video that contain hundred of even thousand of frames, we first use **Off-line Model optimization** approach to train a transfer model, the for each frame in the video, we can feed it into model and get the resulting image in a few second, whcih make transfer style of video become more practicable.
+<img src="./images/MultiStyleNST/video_1.gif" width="40%"> <img src="./images/MultiStyleNST/video_2.gif" width="40%"> <br/>
+Traditional neural style transfer use **On-line Image Optimization** approach, but it could take long time if we want to transfer many image (In our environment, optimize an image take a few minutes). To transfer a video that contain hundred of even thousand of frames, we first use **Off-line Model optimization** approach to train a transfer model, the for each frame in the video, we can feed it into model and get the resulting image in a few second, whcih make transfer style of video become more practicable.
 
