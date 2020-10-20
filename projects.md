@@ -39,7 +39,7 @@ title: Projects |
       </th>
       <th
         class = "textColumn">
-            Hyper-parameters optimization problem is aimed to find the most suitable hyper-parameters for training neural network. This project use Grid Search, Random Search and Evoluationary Search to tackle hyper-parameters optimization problem, and use CUDA-Awared MPI (Distributed Computing) to accerlate the process. We achieve 3.65 to 3.8 speed up under 4 nodes.
+            Hyper-parameters optimization problem is aimed to find the most suitable hyper-parameters for training neural network. This project use Grid Search, Random Search and Evoluationary Search to tackle hyper-parameters optimization problem, and use CUDA-Awared MPI (Distributed Computing) to accerlate the process. We achieve 3.65 to 3.8 speedup under 4 nodes.
       </th>
     </tr>
   </table>
