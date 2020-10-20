@@ -130,28 +130,3 @@ hr {
     width: 75%;
 }
 
-
-.bob-container{
-  margin: 0 auto;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-
-.bob-row{
-  margin-right: -15px;
-  margin-left: -15px;
-}
-
-.bob-row:before,.bob-row:after{
-  display: table;
-  content: " ";  
-}
-
-.bob-row:after{
-  clear: both;
-}
-
-/*2個並排 不管在任何尺寸都會2個並排*/
-.bob-2item{
-  width:50%;
-}

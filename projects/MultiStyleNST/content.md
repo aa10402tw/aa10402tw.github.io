@@ -2,9 +2,10 @@
 layout: default
 title: Multi-Style Sematic Style Transfer | 
 ---
-
-<h1 style="display:inline;"> Multi-Style Sematic Style Transfer </h1> 
-<a style="float: right" href="https://github.com/aa10402tw/MultiStyle-Semantic-Style-Transfer"> [Code] </a> 
+<div>
+	<h1 style="display:inline;"> Multi-Style Sematic Style Transfer </h1> 
+	<a href="https://github.com/aa10402tw/MultiStyle-Semantic-Style-Transfer"> [Code] </a> 
+</div>
 This project is aimed to transfer different semantic objects in one image into different styles. We use pretrained semantic segmentation model (DeepLab-V3) to get the foregound and backgound region, and apply style transfer on different style for each region. In addition to style loss and content loss in traditional neural style transfer, we futher add style-blending loss and total variance loss to make the result more harmony when blending very different style. Also, we provide custom control of blending effect. 
 
 ## Model Architecture
@@ -24,13 +25,5 @@ L = &lambda;<sub>1</sub>L<sub>style</sub> + &lambda;<sub>2</sub>L<sub>blend</sub
 <img src="./result_1.png" width="40%"> <img src="./result_2.png" width="40%">
 
 ### Video Style Transfer
-<div class="bob-container"> 
-  <div class="bob-row">
-    <div class="bob-2item">
-      <img src="./video_1.gif">
-    </div>
-    <div class="bob-2item">
-      <img src="./video_2.gif">
-    </div>
-</div>
+<img src="./video_1.gif" width="40%"> <img src="./video_2.gif" width="40%">
 
