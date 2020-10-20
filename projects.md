@@ -45,7 +45,7 @@ title: Projects |
   </table>
 </div>
 
-## [Quickdraw, Doodle Recognition Challenge](faceWidget.md)
+## [Quickdraw, Doodle Recognition Challenge](https://github.com/aa10402tw/Quickdraw-Doodle-Recognition)
 
 <div
     class = "projectBox">
@@ -65,7 +65,7 @@ title: Projects |
   </table>
 </div>
 
-## [Android Text-Detector](hunting.md)
+## [Android Text-Detector](https://github.com/aa10402tw/Android_Text-Detector)
 
 <div
     class = "projectBox">
@@ -85,7 +85,7 @@ title: Projects |
   </table>
 </div>
 
-## [Knuckles-Recognition as a novel input method for smart glasses](fishing.md)
+## [Knuckles-Recognition as a novel input method for smart glasses](https://github.com/aa10402tw/Knuckles-Recognition)
 
 <div
     class = "projectBox">
@@ -105,7 +105,7 @@ title: Projects |
   </table>
 </div>
 
-## [Object-Detection In Streaming](bike.md)
+## [Object-Detection In Streaming](https://github.com/aa10402tw/Object-Detection-In-Streaming)
 
 <div
     class = "projectBox">
