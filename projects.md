@@ -14,7 +14,7 @@ title: Projects |
       <th
         class = "imageColumn">
         <img
-            src = "/images/MultiStyleNST/result_2.png"
+            src = "projects/images/MultiStyleNST/result_2.png"
             class = "projectImg">
       </th>
       <th
@@ -25,7 +25,7 @@ title: Projects |
   </table>
 </div>
 
-## [Distributed Hyper-Parameters Optimization](intern.md)
+## [Distributed Hyper-Parameters Optimization](projects/DHPO.md)
 
 <div
     class = "projectBox">
@@ -34,7 +34,7 @@ title: Projects |
       <th
         class = "imageColumn">
         <img
-            src = "/images/distributed-HPO/cifar10_speedup.png"
+            src = "projects/images/distributed-HPO/cifar10_speedup.png"
             class = "projectImg">
       </th>
       <th
