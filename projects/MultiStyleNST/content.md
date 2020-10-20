@@ -8,3 +8,4 @@ This project is aimed to transfer different semantic objects in one image into d
 
 ## Model Architecture
 <img src = "./model_architecture.png" class="projectDetailImg">
+Given one image I<sub>src</sub> and two target style images I<sub>s1</sub> and I<sub>s2</sub>, we transfer the different semantic objects into different style accrodingly. We first produced two intermediated result image I<sub>i1</sub> and I<sub>i2</sub>, and compute the style loss between (I<sub>s1</sub>, I<sub>i1</sub>) and (I<sub>s2</sub>, I<sub>i2</sub>).
