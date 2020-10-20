@@ -8,4 +8,4 @@ This project is aimed to transfer different semantic objects in one image into d
 
 ## Model Architecture
 
-<img src = "./model_architecture.png">
+<img src = "./model_architecture.png" width="50%">
