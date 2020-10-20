@@ -6,7 +6,7 @@ title: Multi-Style Sematic Style Transfer |
 	<h1 style="display:inline;"> Multi-Style Sematic Style Transfer </h1> 
 	<a href="https://github.com/aa10402tw/MultiStyle-Semantic-Style-Transfer"> [Code] </a> 
 </div>
-This project is aimed to transfer different semantic objects in one image into different styles. We use pretrained semantic segmentation model (DeepLab-V3) to get the foregound and backgound region, and apply style transfer on different style for each region. In addition to style loss and content loss in traditional neural style transfer, we futher add style-blending loss and total variance loss to make the result more harmony when blending very different style. Also, we provide custom control of blending effect. 
+Hyper-parameters optimization problem is aimed to find the most suitable hyper-parameters for training neural network. This project use Grid Search, Random Search and Evoluationary Search to tackle hyper-parameters optimization problem, and use CUDA-Awared MPI (Distributed Computing) to accerlate the process. We achieve 3.65 to 3.8 speed up under 4 nodes.
 
 ## Model Architecture
 <img src = "./images/MultiStyleNST/model_architecture.png" class="projectDetailImg">
