@@ -15,14 +15,14 @@ Random Search, and Evolutionary Optimization. In the Grid Search process, we jus
 Evolutionary hyper-parameter optimization follows a process inspired by the biological concept of evolution, which is basically to generate new sample points based on the old ones with good performance. 
 
 ## How to parallelize
-<img src = "./images/DHPO/evolution_algorithm.png" class="projectDetailImg">
+<img src = "./images/DHPO/evolution_algorithm.png" class="projectDetailImg"> <br/>
 Because the Grid Search and Random Search approach are easily to parallelize, our project focused on the parallelization of Evolutionary Optimization approach. In our project, we will focus on paralleling hyper-parameter evaluation since it takes most time in the process of searching best
 hyper-parameter and the others in the process will keep serial. Each time when we have to do the process of evaluating hyperparameter, the tasks of evaluating hyper-parameter will be distributed to different hosts evenly. After the hosts gain the result of hyper-parameter, we will collect them and determine whether the stop criteria is reached. If we reached the stop criteria, we can stop
 all the jobs in different hosts and record the best hyper-parameter.
 
 ## Result 
 ### Accuracy Comparison
-<img src="./images/DHPO/mnist_acc.png" width="40%"> <img src="./images/DHPO/cifar10_acc.png" width="40%">
+<img src="./images/DHPO/mnist_acc.png" width="40%"> <img src="./images/DHPO/cifar10_acc.png" width="40%"> <br/>
 For MNIST dataset, as the result shown in figure, the performance of evolutionbased method (94.67%) is better than grid and random search (93.97% and 94.03%, respectively).
 For CIFAR-10 dataset, as the result shown in figure, the performance of evolutionbased method (79.51%) is also better than grid and random search (77.32% and 78.08%, respectively).
 
