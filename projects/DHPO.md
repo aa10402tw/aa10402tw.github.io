@@ -27,6 +27,6 @@ For MNIST dataset, as the result shown in figure, the performance of evolutionba
 For CIFAR-10 dataset, as the result shown in figure, the performance of evolutionbased method (79.51%) is also better than grid and random search (77.32% and 78.08%, respectively).
 
 ### Speedup
-<img src="./images/DHPO/mnist_speedup.png" width="40%"> <img src="./images/DHPO/cifar10_speedup.png" width="40%">
+<img src="./images/DHPO/mnist_speedup.png" width="40%"> <img src="./images/DHPO/cifar10_speedup.png" width="40%"> <br/>
 The speedup evolution-based method on MNIST and CIFAR-10 on 4 nodes are 3.65 and 3.80, respectively. 
 In this experiment, we measure the execution time of each method on different number of nodes, and all of grid, random as well as evolution-based method achieve good speedup.

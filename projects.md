@@ -124,3 +124,23 @@ title: Projects |
     </tr>
   </table>
 </div>
+
+## [Video Gesture Recognition](https://github.com/aa10402tw/Gesture-Recognition)
+
+<div
+    class = "projectBox">
+  <table>
+    <tr>
+      <th
+        class = "imageColumn">
+        <img
+            src = "/images/Gesture-Recognition/model.jpg"
+            class = "projectImg">
+      </th>
+      <th
+        class = "textColumn">
+            This project is aimed to do the gesture recognition task using CNN-RNN architecture, and train the model on the 20BN-JESTER dataset. I use the CNN + LSTM model to classify 27 different predefined gestures in webcam video. The resulting accuracy is about 82% at validation set, and the model can also accurately classify gesture in real world scenario.
+      </th>
+    </tr>
+  </table>
+</div>
