@@ -3,7 +3,7 @@ layout: default
 title: CV | 
 ---
 
-# Educational
+# Education
 
 ## Master's Degree
 > **Institute of Computer Science and Engineering**  
