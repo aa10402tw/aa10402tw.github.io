@@ -28,15 +28,15 @@ National Chengchi University, Taiwan
 2018 Spring -->
 
 # Award
-> TAICHI 2020 - Best Paper Award
+> TAICHI - Best Paper Award, 2020   
 > Academic Excellence Award, NCTU, 2020  
 > Quick, Draw! Doodle Recognition Kaggle Challenge top 18%, 2018  
 > Academic Excellence Award, NCCU, 2017
 
 # Extracurricular Activities
-> Attend and present paper at TAICHI 2020, October 2020 
-> Participate 9th OpenHCI, a student-organized workshop on human-computer interaction, August 2018 
-> Teaching Assistant at Soobi Rural School Charity Programming Camp, May 2018 
+> Attend and present paper at TAICHI 2020, October 2020     
+> Participate 9th OpenHCI, a student-organized workshop on human-computer interaction, August 2018  
+> Teaching Assistant at Soobi Rural School Charity Programming Camp, May 2018   
 
 # Skills
 
