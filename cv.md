@@ -3,10 +3,9 @@ layout: default
 title: CV | 
 ---
 
-# Educational Background
+# Educational
 
 ## Master's Degree
-
 > **Institute of Computer Science and Engineering**  
 National Chiao-Tung University, Taiwan  
 2018-2020  
@@ -15,7 +14,6 @@ National Chiao-Tung University, Taiwan
 > *Overall GPA: 4.2/4.3*
 
 ## Bachelor's Degree
-
 > **Department of Psychology**  
 National Chengchi University, Taiwan  
 2014-2018  
@@ -23,11 +21,22 @@ National Chengchi University, Taiwan
 > *Key Courses: Introduction to Artificial Intelligence (A+), Introduction to Machine Learning (A), Introduction to Software Engineer (A+), Computer Vision (A), Operating System (A+), Java Programming (A+), Computer Architecture and Organization (A+)*  
 > *Overall GPA: 3.7/4.3*
 
-## Teaching Assistant
+<!-- ## Teaching Assistant
 > **Introduction to Computers and Programming, Dept. of Computer Science, NCTU**  
 2018 Fall  
 > **Soobi Rural School Charity Programming Camp**  
-2018 Spring
+2018 Spring -->
+
+# Award
+> TAICHI 2020 - Best Paper Award
+> Academic Excellence Award, NCTU, 2020  
+> Quick, Draw! Doodle Recognition Kaggle Challenge top 18%, 2018  
+> Academic Excellence Award, NCCU, 2017
+
+# Extracurricular Activities
+> Attend and present paper at TAICHI 2020, October 2020 
+> Participate 9th OpenHCI, a student-organized workshop on human-computer interaction, August 2018 
+> Teaching Assistant at Soobi Rural School Charity Programming Camp, May 2018 
 
 # Skills
 
@@ -37,9 +46,6 @@ National Chengchi University, Taiwan
  
 ## Speaking Languages
 > English (Intermediate)  
-Chinese (Native)  
+> Chinese (Native)  
 
-## Award
-> Academic Excellence Award, NCTU, 2020  
-> Quick, Draw! Doodle Recognition Kaggle Challenge top 18%, 2018  
-> Academic Excellence Award, NCCU, 2017
+
