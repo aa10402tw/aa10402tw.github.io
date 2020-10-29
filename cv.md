@@ -18,7 +18,7 @@ National Chiao-Tung University, Taiwan
 National Chengchi University, Taiwan  
 2014-2018  
 &nbsp;  
-> *Key Courses: Introduction to Artificial Intelligence (A+), Introduction to Machine Learning (A), Introduction to Software Engineer (A+), Computer Vision (A), Operating System (A+), Java Programming (A+), Computer Architecture and Organization (A+)*  
+> *Key Courses: Introduction to Artificial Intelligence (A+), Introduction to Machine Learning (A), Introduction to Software Engineer (A+), Operating System (A+), Java Programming (A+), Computer Architecture and Organization (A+)*  
 > *Overall GPA: 3.7/4.3*
 
 <!-- ## Teaching Assistant
