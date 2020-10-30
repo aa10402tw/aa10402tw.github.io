@@ -45,7 +45,7 @@ title: Projects |
   </table>
 </div>
 
-## [Object-Detection In Streaming](https://github.com/aa10402tw/Object-Detection-In-Streaming)
+## [Object-Detection In Streaming](projects/Object-Detection.md)
 
 <div
     class = "projectBox">
@@ -54,7 +54,7 @@ title: Projects |
       <th
         class = "imageColumn">
         <img
-            src = "/images/Object-Detection/Object-DetectionInStreaming.png"
+            src = "projects/images/Detection-Streaming/Object-DetectionInStreaming.png"
             class = "projectImg">
       </th>
       <th
