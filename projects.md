@@ -114,7 +114,7 @@ title: Projects |
       <th
         class = "imageColumn">
         <img
-            src = "/images/Object-Detection/Object-DetectionInStreaming.gif"
+            src = "/images/Object-Detection/Object-DetectionInStreaming.png"
             class = "projectImg">
       </th>
       <th
