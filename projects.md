@@ -45,7 +45,7 @@ title: Projects |
   </table>
 </div>
 
-## [Object-Detection In Streaming](projects/Object-Detection.md)
+## [Object-Detection In Streaming](projects/Detection-Streaming.md)
 
 <div
     class = "projectBox">
