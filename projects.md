@@ -45,6 +45,26 @@ title: Projects |
   </table>
 </div>
 
+## [Object-Detection In Streaming](https://github.com/aa10402tw/Object-Detection-In-Streaming)
+
+<div
+    class = "projectBox">
+  <table>
+    <tr>
+      <th
+        class = "imageColumn">
+        <img
+            src = "/images/Object-Detection/Object-DetectionInStreaming.png"
+            class = "projectImg">
+      </th>
+      <th
+        class = "textColumn">
+            In this project, we use XAMPP to bulid the server, and using MPEG-DASH as Streaming protocol to do live streaming. To be able to select which obejcts to detect by user, we use the Single Shot Multibox Detector (SSD) to do objection detection in client side.
+      </th>
+    </tr>
+  </table>
+</div>
+
 ## [Quickdraw, Doodle Recognition Challenge](https://github.com/aa10402tw/Quickdraw-Doodle-Recognition)
 
 <div
@@ -100,26 +120,6 @@ title: Projects |
       <th
         class = "textColumn">
             Developed a model to classify which knuckle is closest to the camera of smart glasses, which enables users to use different knuckles as different input function for a novel smart glasses prototype. 
-      </th>
-    </tr>
-  </table>
-</div>
-
-## [Object-Detection In Streaming](https://github.com/aa10402tw/Object-Detection-In-Streaming)
-
-<div
-    class = "projectBox">
-  <table>
-    <tr>
-      <th
-        class = "imageColumn">
-        <img
-            src = "/images/Object-Detection/Object-DetectionInStreaming.png"
-            class = "projectImg">
-      </th>
-      <th
-        class = "textColumn">
-            In this project, we use XAMPP to bulid the server, and using MPEG-DASH as Streaming protocol to do live streaming. To be able to select which obejcts to detect by user, we use the Single Shot Multibox Detector (SSD) to do objection detection in client side.
       </th>
     </tr>
   </table>
