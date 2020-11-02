@@ -65,7 +65,7 @@ title: Projects |
   </table>
 </div>
 
-## [Quickdraw, Doodle Recognition Challenge](#projects/Quickdraw.md)
+## [Quickdraw, Doodle Recognition Challenge](projects/Quickdraw.md)
 
 <div
     class = "projectBox">
