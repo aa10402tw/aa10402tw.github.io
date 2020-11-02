@@ -65,7 +65,7 @@ title: Projects |
   </table>
 </div>
 
-## [Quickdraw, Doodle Recognition Challenge](https://github.com/aa10402tw/Quickdraw-Doodle-Recognition)
+## [Quickdraw, Doodle Recognition Challenge](#projects/Quickdraw.md)
 
 <div
     class = "projectBox">
