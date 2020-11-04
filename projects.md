@@ -125,7 +125,7 @@ title: Projects |
   </table>
 </div>
 
-## [Video Gesture Recognition](https://github.com/aa10402tw/Gesture-Recognition)
+## [Video Gesture Recognition](projects/Video-Gesture.md)
 
 <div
     class = "projectBox">
