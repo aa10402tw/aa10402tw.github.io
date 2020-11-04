@@ -85,7 +85,7 @@ title: Projects |
   </table>
 </div>
 
-## [Android Text-Detector](https://github.com/aa10402tw/Android_Text-Detector)
+## [Android Text-Detector](projects/Android-TextDetector.md)
 
 <div
     class = "projectBox">
