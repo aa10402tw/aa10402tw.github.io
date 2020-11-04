@@ -7,8 +7,7 @@ title: Quickdraw, Doodle Recognition Challenge |
 	<a href="https://github.com/aa10402tw/Quickdraw-Doodle-Recognition"> [Code] </a> 
 </div>
 <img src = "./images/Quickdraw/quickdraw.jpg" class="projectDetailImg">
-Attending Kaggle Competition Quickdraw-doodle Recognition Challenge. I adopt the ResNeXt as the model architecture to do the recognition, and ussd some techinques such as model ensemble to improve the performance.
-The result map@3 score (from 340 categories) is 92.46%, which is top 18% among 1,316 teams.
+Attending Kaggle Competition Quickdraw-doodle Recognition Challenge. I adopt the ResNeXt as the model architecture to do the recognition, and used some techniques such as model ensemble to improve the performance. The result map@3 score (from 340 categories) is 92.46%, which is top 18% among 1,316 teams.
 
 ## Model Architecture
 <img src = "./images/Quickdraw/resnext.png" class="projectDetailImg">

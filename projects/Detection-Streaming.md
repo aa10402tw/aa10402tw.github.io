@@ -6,7 +6,7 @@ title: Object-Detection In Streaming |
 	<h1 style="display:inline;">Object-Detection In Streaming </h1> 
 	<a href="https://github.com/aa10402tw/Object-Detection-In-Streaming"> [Code] </a> 
 </div>
-In this project, we use XAMPP to bulid the server, and using MPEG-DASH as Streaming protocol to do live streaming. To be able to select which obejcts to detect by user, we use the Single Shot Multibox Detector (SSD) to do objection detection in client side.
+In this project, we use XAMPP to build the server, and using MPEG-DASH as Streaming protocol to do live streaming. To be able to select which objects to detect by user, we use the Single Shot Multi-box Detector (SSD) to do objection detection in client side.
 
 ## Live Streaming 
 <img src = "./images/Detection-Streaming/Live-Streaming.jpg" class="projectDetailImg">
